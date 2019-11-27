@@ -25,7 +25,7 @@ If no file is passed as a parameter, function asks to enter filename to standard
 
 ### Flags
 
-	-vs - visualize standardized dataset and and solution
-	-vo - visualize original dataset and solution
-	-err - print mean squared error after each iteration of regression
-	-lr - set learning rate (affects speed of learning), must be followed by a number
+	-vs 	- visualize standardized dataset and solution
+	-vo 	- visualize original dataset and solution
+	-err 	- print mean squared error after each iteration of regression
+	-lr 	- set learning rate (affects speed of learning), must be followed by a number
