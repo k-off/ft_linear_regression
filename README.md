@@ -10,7 +10,9 @@ First of the projects in the machine learning area at 42 network. Objective is t
 
 ![Screenshots](/pic/regression.png)
 
-## [SUBJECT](SUBJECT.ft_linear_regression.en.pdf)
+## [Subject](SUBJECT.ft_linear_regression.en.pdf)
+
+## [Evaluation Sheet](https://github.com/k-off/ft_linear_regression/wiki)
 
 ## [Linear Regression - Wiki](https://en.wikipedia.org/wiki/Linear_regression)
 
